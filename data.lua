@@ -1,9 +1,7 @@
-local INFINITY_ROUNDED_DOWN                                           = 200      -- It's pretty close
+local INFINITY_ROUNDED_DOWN                                           = 250      -- It's pretty close
 
 data.raw["utility-constants"].default.max_belt_stack_size             = INFINITY_ROUNDED_DOWN
 data.raw["utility-constants"].default.inserter_hand_stack_max_sprites = INFINITY_ROUNDED_DOWN
-
-data.raw.recipe["iron-gear-wheel"].allowed_module_categories          = {"productivity"}
 
 data:extend {{
     type = "technology",
