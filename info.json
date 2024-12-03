@@ -1,15 +1,12 @@
 {
   "name": "infinite-belt-stacking",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "title": "Infinite Belt Stacking",
   "author": "notnotmelon",
   "homepage": "https://github.com/notnotmelon/infinite-belt-stacking",
   "description": "Reach for the skies! Adds a postgame infinite technology with infinite tiers of belt stacking.",
   "factorio_version": "2.0",
-  "dependencies": [
-    "base",
-    "space-age"
-  ],
+  "dependencies": ["base", "? space-age", "! stack-inserters"],
   "quality_required": false,
   "space_travel_required": true,
   "spoiling_required": false,
