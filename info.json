@@ -4,7 +4,7 @@
   "title": "Infinite Belt Stacking",
   "author": "notnotmelon",
   "homepage": "https://github.com/notnotmelon/infinite-belt-stacking",
-  "description": "Reach for the skies! Adds a postgame infinite technology with infinite tiers of belt stacking. Requires a mod that adds stack inserters, such as the Space Age DLS or the Stack Inserters mod.",
+  "description": "Reach for the skies! Adds a postgame infinite technology with infinite tiers of belt stacking. Requires a mod that adds stack inserters, such as the Space Age DLC or the Stack Inserters mod.",
   "factorio_version": "2.0",
   "dependencies": ["base", "? space-age", "? stack-inserters"],
   "quality_required": false,
